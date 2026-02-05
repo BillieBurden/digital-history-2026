@@ -6,4 +6,5 @@ There are many limitations to this dataset and the overall research. The DOI rep
 
 Citations:
 Hedgpeth, Dana. “Indian Boarding School Deaths, Burial Sites Far Exceed U.S. Government Counts.” Washington Post, The Washington Post, 22 Dec. 2024, www.washingtonpost.com/investigations/interactive/2024/native-american-deaths-burial-sites-boarding-schools/.
+
 Newland, Bryan. Federal Indian Boarding School Initiative Investigative Report Vol. II. U.S. Department of the Interior, July 2024.
